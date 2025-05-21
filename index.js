@@ -48,4 +48,8 @@
 //       return `Bye.`;
 //   }
 // }
-function scuberGreetingForFeet(distance){}
+function scuberGreetingForFeet(distance){
+  if (distance<=400){
+    return 'This one is on me!'
+  }
+}

@@ -48,3 +48,4 @@
 //       return `Bye.`;
 //   }
 // }
+function scuberGreetingForFeet(distance){}
